@@ -8,7 +8,7 @@ so that when pressed It brings us to the top of the page.
 
 ## installation
 
-$git clone https://github.com/michealF/Land-Page
+$git clone https://github.com/michealF/Land-Page  
 $cd "Land-Page"
 
 ### Tools You NeedTo Run This Application
